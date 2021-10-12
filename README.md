@@ -1,7 +1,6 @@
-REMIX EXAMPLE PROJECT
+Collection of Solidity / W3 smart contracts, code, and security related artifacts.
 
-Remix example project is present when Remix loads very first time or there are no files existing in the File Explorer. 
-It contains 3 directories:
+Remix sample has created some information.
 
 1. 'contracts': Holds three contracts with different complexity level, denoted with number prefix in file name.
 2. 'scripts': Holds two scripts to deploy a contract. It is explained below.
@@ -16,3 +15,8 @@ Scripts have full access to the web3.js and ethers.js libraries.
 To run a script, right click on file name in the file explorer and click 'Run'. Remember, Solidity file must already be compiled.
 
 Output from script will appear in remix terminal.
+
+
+//Linked to Github account for autopush through Remix
+
+//Using Remix with Ganache, will work on Truffle testing in time.
